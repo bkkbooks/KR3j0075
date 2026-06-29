@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0075/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0075_WYG_000-1a, image: WYG0859/WYG0859-0781a.png}
+body:
+  text: 樵香小記雜家類二雜考之屬提要臣等謹案樵香小記二卷國朝何琇撰琇字君琢號勵菴宛平人雍正癸丑進士官至宗人府主事是編皆考證之文凡一百二十條論經義者居其大半亦頗及字學韻學其論六書頗與舊說異同如謂禿字當從禾㑹意說文謂人伏禾下固屬􅍝妄即六書正訛改為從木諧聲亦非確論謂說文訓為字為母猴本末倒置當是先有為字乃借以名猴謂射字從身從寸為籕文象手持弓形之訛其說皆未免于獨創至其解春秋西狩獲麟解周禮奔者不禁解詩野有死麕亦時能發先儒所未發其學問大㫖蓋出入於閻若璩顧炎武朱彝尊毛竒齡諸家故多演其緒論云乾隆四十六年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a174ee0276a96304a3d44bf3cee32a15f3428cfebb84fe8139b272b4b26d9304
+metadata:
+  title: 樵香小記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:22:11.906987'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0075/KR3j0075_000.txt
+hash: sha256:20ce64048fab7c3f3673c14dfaf8c7176a38cef41ced768f4239c3af92931ffc
